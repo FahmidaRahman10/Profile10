@@ -1,4 +1,4 @@
-# Academic Faculty Website — Dr. Fahmida Rahman
+# Academic Faculty Website — Fahmida Rahman
 
 A responsive static academic portfolio designed for free GitHub Pages hosting.
 
